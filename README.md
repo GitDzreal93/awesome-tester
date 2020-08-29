@@ -302,92 +302,67 @@
 
 *测试平台整站项目*
 
-[metersphere](https://github.com/metersphere/metersphere) - 一站式的开源企业级持续测试平台
-
-[普兰能效平台](https://github.com/purang-fintech) - 开源的效能平台，支持本地化部署和二次开发
-
-[sosotest](https://github.com/LianjiaTech/sosotest) - 贝壳找房测试团队开源的整站接口自动化测试平台，支持 HTTP 和 DUBBO
-
-[LuckyFrameWeb](https://gitee.com/seagull1985/LuckyFrameWeb) - 开源自动化测试平台
-
-[HttpRunner](https://github.com/HttpRunner/HttpRunner) - HttpRunner 是一款面向 HTTP(S) 协议的通用测试框架
-
-[ATX-Test](https://github.com/pengchenglin/ATX-Test) - 基于ATX-Server的UI自动化测试框架，目前也支持运行Monkey
-
-[APT](https://github.com/ooqitech/ATP) - Flask + vue.js 的测试服务平台
+- [metersphere](https://github.com/metersphere/metersphere) - 一站式的开源企业级持续测试平台
+- [普兰能效平台](https://github.com/purang-fintech) - 开源的效能平台，支持本地化部署和二次开发
+- [sosotest](https://github.com/LianjiaTech/sosotest) - 贝壳找房测试团队开源的整站接口自动化测试平台，支持 HTTP 和 DUBBO
+- [LuckyFrameWeb](https://gitee.com/seagull1985/LuckyFrameWeb) - 开源自动化测试平台
+- [HttpRunner](https://github.com/HttpRunner/HttpRunner) - HttpRunner 是一款面向 HTTP(S) 协议的通用测试框架
+- [ATX-Test](https://github.com/pengchenglin/ATX-Test) - 基于ATX-Server的UI自动化测试框架，目前也支持运行Monkey
+- [APT](https://github.com/ooqitech/ATP) - Flask + vue.js 的测试服务平台
 
 ## 前端模版
 
-[Vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - 基于 vue.js 和 ElementUI 的后台管理系统前端脚手架项目
-
-[inspinia](https://github.com/Chuibility/inspinia) - 基于 Bootstrap 的后台管理系统前端框架模版
-
-[xenon](https://github.com/GroupOfStar/xenon) - 基于 Bootstrap 的后台管理系统前端框架模版
-
-[lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - 林间有风团队开源，cms后台工程，前端部分
+- [Vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - 基于 vue.js 和 ElementUI 的后台管理系统前端脚手架项目
+- [inspinia](https://github.com/Chuibility/inspinia) - 基于 Bootstrap 的后台管理系统前端框架模版
+- [xenon](https://github.com/GroupOfStar/xenon) - 基于 Bootstrap 的后台管理系统前端框架模版
+- [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - 林间有风团队开源，cms后台工程，前端部分
 
 ## 后端项目
 
-[lin-cms-springboot][https://github.com/TaleLin/lin-cms-spring-boot] - 林间有风团队开源，cms后台工程，后端 Java
-
-[lin-cms-flask](https://github.com/TaleLin/lin-cms-flask) - 林间有风团队开源，cms后台工程，后端 Python
-
-[lin-cms-koa](https://github.com/TaleLin/lin-cms-koa) - 林间有风团队开源，cms后台工程，后端 Node.js
+- [lin-cms-springboot][https://github.com/TaleLin/lin-cms-spring-boot] - 林间有风团队开源，cms后台工程，后端 Java
+- [lin-cms-flask](https://github.com/TaleLin/lin-cms-flask) - 林间有风团队开源，cms后台工程，后端 Python
+- [lin-cms-koa](https://github.com/TaleLin/lin-cms-koa) - 林间有风团队开源，cms后台工程，后端 Node.js
 
 # 学习资源
 
 ## 视频资源
 
-[程序员臻叔](https://space.bilibili.com/382166537) - B站上测试开发领域的小UP主
-
-[Python移动自动化测试面试](https://coding.imooc.com/class/182.html) - 慕课网无线测试面试
+- [程序员臻叔](https://space.bilibili.com/382166537) - B站上测试开发领域的小UP主
+- [Python移动自动化测试面试](https://coding.imooc.com/class/182.html) - 慕课网无线测试面试
 
 ## 学习路线
 
-[测开学习路线](https://mp.weixin.qq.com/s/H6ULJUe30REadme9-7wKGQ) - 从0开始，入职大厂测试开发学习路线
-
-[测试开发技术图谱]([https://github.com/GitDzreal93/dev-tester#%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1](https://github.com/GitDzreal93/dev-tester#测试开发知识图谱)) - 霍格沃滋测试学院出品
+- [测开学习路线](https://mp.weixin.qq.com/s/H6ULJUe30REadme9-7wKGQ) - 从0开始，入职大厂测试开发学习路线
+- [测试开发技术图谱]([https://github.com/GitDzreal93/dev-tester#%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1](https://github.com/GitDzreal93/dev-tester#测试开发知识图谱)) - 霍格沃滋测试学院出品
 
 ## 测试书籍
 
-[测试开发必读书单](https://mp.weixin.qq.com/s/LKG0PBGkUR1qlsBZ769EJw) - 软件测试必读的48本书
+- [测试开发必读书单](https://mp.weixin.qq.com/s/LKG0PBGkUR1qlsBZ769EJw) - 软件测试必读的48本书
 
 ## 编程学习
 
-[菜鸟教程](https://www.runoob.com/) - 基本上涵盖了大多数的主流编程语言的教程
-
-[廖雪峰Python](https://www.liaoxuefeng.com/wiki/1016959663602400) - python基础知识教程，学完应该能入门了
-
-[Python3高级核心技术97讲](https://coding.imooc.com/class/200.html) - 慕课网 Python 进阶最优视频
-
-[廖雪峰Git](https://www.liaoxuefeng.com/wiki/896043488029600) - 优质 Git 教程
-
-[How2J](https://how2j.cn/) - 优质 Java 教程
-
-[Mall](https://github.com/macrozheng/mall) - 优质Java项目，SpringBoot + Mybatis
-
-[JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。
-
-[JavaGuide 面试突击版](https://github.com/Snailclimb/JavaGuide-Interview) - Java 面试突击版  
+- [菜鸟教程](https://www.runoob.com/) - 基本上涵盖了大多数的主流编程语言的教程
+- [廖雪峰Python](https://www.liaoxuefeng.com/wiki/1016959663602400) - python基础知识教程，学完应该能入门了
+- [Python3高级核心技术97讲](https://coding.imooc.com/class/200.html) - 慕课网 Python 进阶最优视频
+- [廖雪峰Git](https://www.liaoxuefeng.com/wiki/896043488029600) - 优质 Git 教程
+- [How2J](https://how2j.cn/) - 优质 Java 教程
+- [Mall](https://github.com/macrozheng/mall) - 优质Java项目，SpringBoot + Mybatis
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [JavaGuide 面试突击版](https://github.com/Snailclimb/JavaGuide-Interview) - Java 面试突击版  
 
 ## 面试相关
 
-[牛客网](https://www.nowcoder.com/) - 刷题、面经
-
-[leetcode](leetcode) - 算法学习、算法面试题
-
-[测试开发面试专辑](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzAxMTA2OTY0Nw==&scene=1&album_id=1485856836774838273#wechat_redirect) - 程序员臻叔面试专辑汇总
-
-[测试开发面试复习资料](https://github.com/GitDzreal93/dev-tester) - 测试开发面试资源、复习资料汇总
-
-[500丁简历](https://www.500d.me/) - 简历模版
-
-[ResumeSample](https://github.com/geekcompany/ResumeSample) - 程序员简历模版
-
-[冷熊简历](http://cv.ftqq.com/?fr=github) - 冷熊简历md格式 
+- [牛客网](https://www.nowcoder.com/) - 刷题、面经
+- [leetcode](leetcode) - 算法学习、算法面试题
+- [测试开发面试专辑](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzAxMTA2OTY0Nw==&scene=1&album_id=1485856836774838273#wechat_redirect) - 程序员臻叔面试专辑汇总
+- [测试开发面试复习资料](https://github.com/GitDzreal93/dev-tester) - 测试开发面试资源、复习资料汇总
+- [500丁简历](https://www.500d.me/) - 简历模版
+- [ResumeSample](https://github.com/geekcompany/ResumeSample) - 程序员简历模版
+- [冷熊简历](http://cv.ftqq.com/?fr=github) - 冷熊简历md格式 
 
 # 测试网站
 
 ## 测试社区
 
-[TesterHome](https://testerhome.com/) - 中国最好的测试社区
+- [TesterHome](https://testerhome.com/) - 中国最好的测试社区
+
