@@ -13,7 +13,7 @@
     - [Web测试工具](#Web测试工具)
     - [自动化工具](#自动化工具)
     - [IDE工具](#IDE工具)
-    - [编译/反编译](#编译/反编译)
+    - [编译和反编译](#编译和反编译)
     - [终端](#终端)
     - [云测](#云测)
     - [数据库](#数据库)
@@ -152,7 +152,7 @@
 - [小程序开发者工具](https://render.alipay.com/p/f/fd-jwq8nu2a/pages/home/index.html) - 支付宝小程序 开发工具
 - [sublime](http://www.sublimetext.com/) - 轻量级 开发工具
 
-## 编译/反编译
+## 编译和反编译
 
 *常用的代码编译和反编译工具*
 
@@ -258,10 +258,20 @@
 
 *业内常用的项目管理软件*
 
-- [Jira]() - Atlassian公司出品的项目与事务跟踪工具，也是目前最流行的项目管理工具
+- [Jira](https://www.atlassian.com/software/jira) - Atlassian公司出品的项目与事务跟踪工具，也是目前最流行的项目管理工具
 - [禅道](https://www.zentao.net/) - 项目管理平台
 - [普兰能效平台](https://github.com/purang-fintech) - 开源的效能平台，支持本地化部署和二次开发
 - [tower](https://tower.im/) - 团队和项目管理平台
+
+## 在线文档
+
+*工作中常用的协作工具*
+
+- [石墨文档](https://shimo.im/desktop) - 一款轻便、简洁的在线协作文档工具
+- [wiki](https://www.atlassian.com/software/confluence/why-wiki-collaboration-software) - 企业级的wiki系统
+- [有道云笔记](http://note.youdao.com/) - 在线笔记
+- [印象笔记](https://www.yinxiang.com/) - 在线笔记
+- [Processon](https://www.processon.com/) - 在线作图工具
 
 ## 版本控制
 
