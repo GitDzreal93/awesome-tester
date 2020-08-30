@@ -10,7 +10,7 @@
   <a href="https://my.oschina.net/u/3312441"><img src="https://img.shields.io/badge/OSChina-%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD-green" alt="开源中国"></a>
 </p>
 
-![](https://imgkr2.cn-bj.ufileos.com/b2977615-0733-4ea0-baac-e349df34baac.png?UCloudPublicKey=TOKEN_8d8b72be-579a-4e83-bfd0-5f6ce1546f13&Signature=ooCbFqZwqjZaef8LTrIO7LXju5c%253D&Expires=1598857903)
+![Xnip2020-08-30_15-24-08.jpg](http://ww1.sinaimg.cn/large/006F2AR3gy1gi8v95zgd1j31zu0m2wki.jpg)
 
 ------
 
