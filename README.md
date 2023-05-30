@@ -81,6 +81,7 @@
 * [requests](http://python-requests.org/) - python的HTTP请求库
 * [grequests](https://github.com/spyoungtech/grequests) - requests + gevent for 异步 HTTP 请求库
 * [aiohttp](https://github.com/aio-libs/aiohttp) - 基于python的asyncio的HTTP请求库
+* - [API Testing](https://github.com/LinuxSuRen/api-testing) - 高可扩展的、基于 YAML 格式编写测试用例的接口测试工具，支持命令行以及 VSCode 中使用
 
 ## 压测工具
 
