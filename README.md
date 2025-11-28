@@ -75,6 +75,7 @@
 
 * [Postman](https://www.postman.com/) - 谷歌出品的优秀接口调试工具
 * [Postwoman](https://github.com/hoppscotch/hoppscotch) - Postman开源替代品
+* [BitDive](https://bitdive.io/) - 零代码API测试平台，支持Java/Kotlin。自动捕获运行时行为（HTTP、SQL、方法调用），自动生成Mock，支持场景回放
 * [Jmeter](https://jmeter.apache.org/) - Apache开源项目，适合压测/接口测试
 * [Swagger](https://swagger.io/) - 丝袜哥，适配多种编程语言，接口文档和调试工具
 * [Yapi](https://gitee.com/suxiaoxin123/yapi) - 接口管理平台，支持Mock数据，支持Postman/Swagger导入接口数据
