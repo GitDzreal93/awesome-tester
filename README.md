@@ -146,6 +146,7 @@
 - [TestNG](https://testng.org/doc/) - 基于 Java 的单元测试工具，常用于管理自动化测试用例
 - [Allure](https://docs.qameta.io/allure/#_about) - 自动化报告生成框架（搭配 Pytest 使用）
 - [HTMLTestRunnerCN](https://github.com/findyou/HTMLTestRunnerCN) - 自动化报告生成框架（搭配 unittest 使用）
+- [agent-qa](https://www.vostride.com) - 用自然语言测试 Web、Android 和 iOS 的 AI 自动化工具，具备持久记忆与经验证的自我改进能力，提供 CLI、MCP 和 Skills。
 
 ## IDE工具
 
